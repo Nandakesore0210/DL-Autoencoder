@@ -179,4 +179,4 @@ visualize_denoising(model, test_loader)
 <img width="1756" height="612" alt="image" src="https://github.com/user-attachments/assets/7c80e017-0683-4b7b-82b1-25b003145953" />
 
 ## RESULT
-Thus the profgram for Image Denoising using Convolutional Autoencoder is implemented successfully.
+Thus the program for Image Denoising using Convolutional Autoencoder is implemented successfully.
