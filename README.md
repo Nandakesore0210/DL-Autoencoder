@@ -4,7 +4,7 @@
 To develop a convolutional autoencoder for image denoising application.
 
 ## THEORY
-
+A Convolutional Autoencoder (CAE) for image denoising is a deep learning model designed to remove noise from corrupted images and restore them to their original quality. It consists of two main parts — an encoder, which compresses the input image into a lower-dimensional latent representation, and a decoder, which reconstructs the clean image from this representation. Convolutional layers are used to capture spatial and structural features, making the model efficient for image-related tasks. During training, the CAE learns to minimize the difference between noisy and clean images using a loss function such as Mean Squared Error (MSE). Once trained, it can effectively filter out unwanted noise while preserving key image details and textures. This makes it highly useful in applications like medical imaging, photography, and computer vision preprocessing.
 
 ## Neural Network Model
 Include the neural network model diagram.
